@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Inicio
 ---
 <ul>
-{% for post in site.posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-{% endfor %}
+  {% for post in site.posts %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
