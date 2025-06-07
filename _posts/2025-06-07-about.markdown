@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title:  "About"
+date:   2025-06-07 14:17:18 -0600
 permalink: /about.html
 ---
 
