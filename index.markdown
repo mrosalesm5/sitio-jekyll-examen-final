@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Inicio ({{ "/" | relative_url }}) | [Acerca de]({{ "/about/" | relative_url }})
+[Inicio]({{ "/" | relative_url }}) | [Acerca de]({{ "/about/" | relative_url }})
 ---
 <ul>
   {% for post in site.posts %}
