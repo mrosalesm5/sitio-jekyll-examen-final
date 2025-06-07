@@ -2,7 +2,7 @@
 layout: default
 title:  "About"
 date:   2025-06-07 14:17:18 -0600
-permalink: /about.html
+categories: jekyll update
 ---
 
 Sitio elaborado para la evaluacion de la parte practica del examen final del curso de Introduccion a los Sistemas de Computo.
