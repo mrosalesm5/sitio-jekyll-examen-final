@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Descripcion del curso"
 date:   2025-06-07 14:17:18 -0600
 categories: jekyll update
